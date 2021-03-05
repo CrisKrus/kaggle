@@ -13,5 +13,5 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 
 <!-- LINKS -->
 [python-tutorial]:https://www.kaggle.com/learn/python
-[hello]:exercise-syntax-variables-and-numbers.ipynb
-[functions]:exercise-functions-and-getting-help.ipynb
+[hello]:exercises/exercise-syntax-variables-and-numbers.ipynb
+[functions]:exercises/exercise-functions-and-getting-help.ipynb
