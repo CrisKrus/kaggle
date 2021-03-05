@@ -12,12 +12,15 @@ una [lista de reproducción][lista-directos]
 
 No olvides que puedes seguirme o preguntarme lo que quieras por mis redes sociales!
 
-- Instagram 📷 http://bit.ly/cristian-suarez-instagram
-- Blog ✍🏼 http://bit.ly/cristian-suarez-blog
-- Twitch 📺 http://bit.ly/cristian-suarez-twitch
-- Youtube 🎥 http://bit.ly/cristian-suarez-youtube
-- Youtube directos 📺🎥 http://bit.ly/cristian-suarez-directos
+- [Instagram 📷][instagram]
+- [Blog ✍🏼][blog]
+- [Twitch 📺][Twitch]
+- [Youtube 🎥][youtube]
+- [Youtube directos 📺🎥][youtube-directos]
 
+[instagram]:http://bit.ly/cristian-suarez-instagra
+[blog]:http://bit.ly/cristian-suarez-blog
+[youtube]:http://bit.ly/cristian-suarez-youtube
 [Twitch]:http://bit.ly/cristian-suarez-twitch
 [youtube-directos]:http://bit.ly/cristian-suarez-directos
 [lista-directos]:https://www.youtube.com/playlist?list=PLZh1qmaTeQ-qvyJ9GOLNEwESIGTQdHAoI
