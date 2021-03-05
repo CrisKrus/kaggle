@@ -9,9 +9,11 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 
 1. [Hello, Python][hello]
 2. [Functions and Getting Help][functions]
+3. [Booleans and Conditionals][conditionals]
 
 
 <!-- LINKS -->
 [python-tutorial]:https://www.kaggle.com/learn/python
 [hello]:exercises/exercise-syntax-variables-and-numbers.ipynb
 [functions]:exercises/exercise-functions-and-getting-help.ipynb
+[conditionals]:exercises/exercise-booleans-and-conditionals.ipynb
