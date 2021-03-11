@@ -12,6 +12,7 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 3. [Booleans and Conditionals][conditionals]
 4. [List][list]
 5. [Loops and List Comprehensions][loops]
+5. [String and Dictionaries][dictionaries]
 
 
 <!-- LINKS -->
@@ -21,3 +22,4 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 [conditionals]:exercises/exercise-booleans-and-conditionals.ipynb
 [list]:exercises/exercise-lists.ipynb
 [loops]:exercises/exercise-loops-and-list-comprehensions.ipynb
+[dictionaries]:exercises/exercise-strings-and-dictionaries.ipynb
