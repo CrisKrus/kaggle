@@ -19,7 +19,7 @@ No olvides que puedes seguirme o preguntarme lo que quieras por mis redes social
 - [Youtube 🎥][youtube]
 - [Youtube directos 📺🎥][youtube-directos]
 
-[instagram]:http://bit.ly/cristian-suarez-instagra
+[instagram]:http://bit.ly/cristian-suarez-instagram
 [blog]:http://bit.ly/cristian-suarez-blog
 [youtube]:http://bit.ly/cristian-suarez-youtube
 [Twitch]:http://bit.ly/cristian-suarez-twitch
