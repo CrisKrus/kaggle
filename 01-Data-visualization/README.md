@@ -8,8 +8,10 @@ de datos. Para ello hemos usado este módulo de Kaggle
 El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 
 1. [Hello, Seaborn][hello]
+2. [Line charts][line-charts]
 
 
 <!-- LINKS -->
 [data-visualization]:https://www.kaggle.com/learn/data-visualization
 [hello]:exercises/exercise-hello-seaborn.ipynb
+[line-charts]:exercises/exercise-line-charts.ipynb
