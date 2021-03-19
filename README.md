@@ -7,6 +7,7 @@ una [lista de reproducción][lista-directos]
 # Sesiones
 
 1. [Repasando Python](00-Repasando-python)
+2. [Introducción data visualization](01-Data-visualization)
 
 ## Redes sociales
 
