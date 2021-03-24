@@ -18,10 +18,10 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 
 <!-- LINKS -->
 [python-tutorial]:https://www.kaggle.com/learn/python
-[hello]:exercises/exercise-syntax-variables-and-numbers.ipynb
-[functions]:exercises/exercise-functions-and-getting-help.ipynb
-[conditionals]:exercises/exercise-booleans-and-conditionals.ipynb
-[list]:exercises/exercise-lists.ipynb
-[loops]:exercises/exercise-loops-and-list-comprehensions.ipynb
-[dictionaries]:exercises/exercise-strings-and-dictionaries.ipynb
-[external-libraries]:exercises/exercise-working-with-external-libraries.ipynb
+[hello]:01-hello-python
+[functions]:02-functions-and-getting-help
+[conditionals]:03-booleans-and-conditionals
+[list]:04-list
+[loops]:05-loops-and-list-comprehensions
+[dictionaries]:06-string-and-dictionaries
+[external-libraries]:07-working-wiht-external-libraries

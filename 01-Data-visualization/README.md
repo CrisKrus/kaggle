@@ -15,7 +15,7 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 
 <!-- LINKS -->
 [data-visualization]:https://www.kaggle.com/learn/data-visualization
-[hello]:exercises/exercise-hello-seaborn.ipynb
-[line-charts]:exercises/exercise-line-charts.ipynb
-[bar-charts]:exercises/exercise-bar-charts-and-heatmaps.ipynb
+[hello]:01-hello-seaborn
+[line-charts]:02-line-charts
+[bar-charts]:03-bar-charts
 [scatter-plots]:04-scatter-plots
