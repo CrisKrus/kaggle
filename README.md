@@ -9,6 +9,16 @@ una [lista de reproducción][lista-directos]
 1. [Repasando Python](00-Repasando-python)
 2. [Introducción data visualization](01-Data-visualization)
 
+# Trabajar en local
+
+Para poder trabajar en local necesitarás tener jupyter notebook instalado. Pero,
+no te preocupes he creado una imagen de docker para que puedas arrancarlo sin
+muchas complicaciones. Para ello ejecuta los siguientes comandos:
+
+1. `docker build -t criskrus/jupyter-notebooks .`
+2. ` docker run --rm -it --name notebook -p 8888:8888 -v $(pwd):/notebooks criskrus/jupyter-notebooks`
+3. Ve a tu navegador a la dirección `localhost:8888`
+
 ## Redes sociales
 
 No olvides que puedes seguirme o preguntarme lo que quieras por mis redes sociales!
