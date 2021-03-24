@@ -18,4 +18,4 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 [hello]:exercises/exercise-hello-seaborn.ipynb
 [line-charts]:exercises/exercise-line-charts.ipynb
 [bar-charts]:exercises/exercise-bar-charts-and-heatmaps.ipynb
-[scatter-plots]:exercises/exercise-scatter-plots.ipynb
+[scatter-plots]:04-scatter-plots
