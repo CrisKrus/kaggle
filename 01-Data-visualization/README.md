@@ -13,6 +13,7 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 4. [Scatter plots][scatter-plots]
 5. [Distributions][distributions]
 6. [Choosing Plot Types and Custom Styles][plot-types]
+7. [Final project][final-project]
 
 
 <!-- LINKS -->
@@ -23,3 +24,4 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 [scatter-plots]:04-scatter-plots
 [distributions]:05-distributions
 [plot-types]:06-choosing-plot-types
+[final-project]:07-final-project
