@@ -16,7 +16,7 @@ no te preocupes he creado una imagen de docker para que puedas arrancarlo sin
 muchas complicaciones. Para ello ejecuta los siguientes comandos:
 
 1. `docker build -t criskrus/jupyter-notebooks .`
-2. ` docker run --rm -it --name notebook -p 8888:8888 -v $(pwd):/notebooks criskrus/jupyter-notebooks`
+2. `docker run --rm -it --name notebook -p 8888:8888 -v $(pwd):/notebooks criskrus/jupyter-notebooks`
 3. Ve a tu navegador a la dirección `localhost:8888`
 
 ## Redes sociales

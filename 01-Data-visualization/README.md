@@ -11,6 +11,7 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 2. [Line charts][line-charts]
 3. [Bar chart and heatmaps][bar-charts]
 4. [Scatter plots][scatter-plots]
+4. [Distributions][distributions]
 
 
 <!-- LINKS -->
@@ -19,3 +20,4 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 [line-charts]:02-line-charts
 [bar-charts]:03-bar-charts
 [scatter-plots]:04-scatter-plots
+[distributions]:05-distributions
