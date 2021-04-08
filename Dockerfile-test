@@ -1,12 +1,13 @@
 FROM python:3
 
-RUN pip install notebook jupyterlab
+WORKDIR /usr/src/app
+
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
 
 #RUN useradd -m app
 #RUN chown -R app:app /usr/local/bin/jupyter
 #USER app
-
-WORKDIR /notebook
 
 # check this set up for server
 # https://jupyter-notebook.readthedocs.io/en/stable/public_server.html
