@@ -1,8 +1,8 @@
 # Kaggle
 Lugar donde guardar notas de los directos de 100 horas de datos. Estos directos
-los hago en [Twitch] cada viernes a las 8 AM hora Canarias. Además de esto, cada
-sesión la subo al canal de [youtube de directos][youtube-directos] dentro de 
-una [lista de reproducción][lista-directos]
+los hago en [Twitch]. Además de esto, cada sesión la subo al canal de 
+[youtube de directos][youtube-directos] dentro de una 
+[lista de reproducción][lista-directos]
 
 # Sesiones
 
