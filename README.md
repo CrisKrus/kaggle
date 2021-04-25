@@ -15,9 +15,9 @@ Para poder trabajar en local necesitarás tener jupyter notebook instalado. Pero
 no te preocupes he creado una imagen de docker para que puedas arrancarlo sin
 muchas complicaciones. Para ello ejecuta los siguientes comandos:
 
-1. `docker build -t criskrus/jupyter-notebooks .`
-2. `docker run --rm -it --name notebook -p 8888:8888 -v $(pwd):/notebooks criskrus/jupyter-notebooks`
-3. Ve a tu navegador a la dirección `localhost:8888`
+1. `docker build -t criskrus/jupyter -f .docker/jupyter/Dockerfile .`
+2. `docker run --rm --user root -p 8888:8888 -v $(pwd):/home/cristian.suarez/notebooks -e NB_UID=$(id -u) -e NB_GID=$(id -g) criskrus/jupyter`
+3. En el terminal apareceran enlaces para poder acceder a jupyterlab sin problema, deben de ser similares a este `https://127.0.0.1:8888/lab?token=e823c5883ce7a1196249c94cc3ad14afa6a608bc58a4c00d`
 
 ## Redes sociales
 

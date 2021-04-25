@@ -1,2 +1,5 @@
-notebook
-jupyterlab
+pandas
+numpy
+matplotlib
+plotly
+seaborn
