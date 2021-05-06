@@ -8,6 +8,8 @@ los hago en [Twitch]. Además de esto, cada sesión la subo al canal de
 
 1. [Repasando Python](00-Repasando-python)
 2. [Introducción data visualization](01-Data-visualization)
+2. [Trabajamos por nuestra cuenta con el dataset de ventas de videojuegos](02-video-game-sales)
+2. [Manipulación de datos con Pandas](03-Pandas)
 
 # Trabajar en local
 
