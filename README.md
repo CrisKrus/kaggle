@@ -9,17 +9,22 @@ los hago en [Twitch]. Además de esto, cada sesión la subo al canal de
 1. [Repasando Python](00-Repasando-python)
 2. [Introducción data visualization](01-Data-visualization)
 2. [Trabajamos por nuestra cuenta con el dataset de ventas de videojuegos](02-video-game-sales)
-2. [Manipulación de datos con Pandas](03-Pandas)
+3. [Manipulación de datos con Pandas](03-Pandas)
+4. [Modificamos nuestro anterior notebook para trabajar con pandas](04-video-game-sales-with-pandas)
+5. [Buscamos datos públicos de Open data y los analizamos](05-open-data)
 
 # Trabajar en local
 
 Para poder trabajar en local necesitarás tener jupyter notebook instalado. Pero,
 no te preocupes he creado una imagen de docker para que puedas arrancarlo sin
-muchas complicaciones. Para ello ejecuta los siguientes comandos:
+muchas complicaciones. Para ello ejecuta el siguiente script:
 
-1. `docker build -t criskrus/jupyter -f .docker/jupyter/Dockerfile .`
-2. `docker run --rm --user root -p 8888:8888 -v $(pwd):/home/cristian.suarez/notebooks -e NB_UID=$(id -u) -e NB_GID=$(id -g) criskrus/jupyter`
-3. En el terminal apareceran enlaces para poder acceder a jupyterlab sin problema, deben de ser similares a este `https://127.0.0.1:8888/lab?token=e823c5883ce7a1196249c94cc3ad14afa6a608bc58a4c00d`
+```shell
+sh ./run.sh
+```
+
+Esto internamente crea y arranca una imagen de Docker montando el directorio
+actual en el contenedor para persistir los cambios en esta misma carpeta.
 
 ## Redes sociales
 
