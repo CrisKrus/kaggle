@@ -1,0 +1,5 @@
+python-dotenv
+requests
+
+pip~=21.1
+setuptools~=56.0.0
