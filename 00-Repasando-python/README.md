@@ -15,6 +15,9 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 6. [String and Dictionaries][dictionaries]
 7. [Working with external libraries][external-libraries]
 
+## Certificado
+
+[![Certificado Python](cristiansuarez-Python.png)][certificate]
 
 <!-- LINKS -->
 [python-tutorial]:https://www.kaggle.com/learn/python
@@ -25,3 +28,4 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 [loops]:05-loops-and-list-comprehensions
 [dictionaries]:06-string-and-dictionaries
 [external-libraries]:07-working-wiht-external-libraries
+[certificate]:https://www.kaggle.com/learn/certification/cristiansuarez/python

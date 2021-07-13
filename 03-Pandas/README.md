@@ -14,6 +14,10 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 5. [Data Types and Missing Values][data-types-and-missing-values]
 6. [Renaming and Combining][renaming-and-combining]
 
+## Certificado
+
+[![Certificado Pandas](cristiansuarez-Pandas.png)][certificate]
+
 <!-- LINKS -->
 [pandas]:https://www.kaggle.com/learn/pandas
 [creating-reading-and-writing]:01-creating-reading-and-writing
@@ -22,3 +26,4 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 [grouping-and-sorting]:04-grouping-and-sorting
 [data-types-and-missing-values]:05-data-types-and-missing-values
 [renaming-and-combining]:06-renaming-and-combining
+[certificate]:https://www.kaggle.com/learn/certification/cristiansuarez/pandas

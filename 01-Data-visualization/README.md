@@ -15,6 +15,9 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 6. [Choosing Plot Types and Custom Styles][plot-types]
 7. [Final project][final-project]
 
+## Certificado
+
+[![Certificado Pandas](cristiansuarez-Data-Visualization.png)][certificate]
 
 <!-- LINKS -->
 [data-visualization]:https://www.kaggle.com/learn/data-visualization
@@ -25,3 +28,4 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 [distributions]:05-distributions
 [plot-types]:06-choosing-plot-types
 [final-project]:07-final-project
+[certificate]:https://www.kaggle.com/learn/certification/cristiansuarez/data-visualization
