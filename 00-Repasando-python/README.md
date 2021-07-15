@@ -27,5 +27,5 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 [list]:04-list
 [loops]:05-loops-and-list-comprehensions
 [dictionaries]:06-string-and-dictionaries
-[external-libraries]:07-working-wiht-external-libraries
+[external-libraries]:07-working-with-external-libraries
 [certificate]:https://www.kaggle.com/learn/certification/cristiansuarez/python
