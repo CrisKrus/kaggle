@@ -19,12 +19,12 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 [![Certificado Python](cristiansuarez-Python.png)][certificate]
 
 <!-- LINKS -->
-[course-link]:https://www.kaggle.com/learn/python
-[hello]:01-hello-python
-[functions]:02-functions-and-getting-help
-[conditionals]:03-booleans-and-conditionals
-[list]:04-list
-[loops]:05-loops-and-list-comprehensions
-[dictionaries]:06-string-and-dictionaries
-[external-libraries]:07-working-with-external-libraries
-[certificate]:https://www.kaggle.com/learn/certification/cristiansuarez/python
+[course-link]:https://www.kaggle.com/learn/
+[hello]:01-
+[functions]:02-
+[conditionals]:03-
+[list]:04-
+[loops]:05-
+[dictionaries]:06-
+[external-libraries]:07-
+[certificate]:https://www.kaggle.com/learn/certification/cristiansuarez/

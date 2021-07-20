@@ -1,7 +1,6 @@
-# Step title
+# ¿Cómo funcionan los modelos?
 
 - [Descarga el notebook teórico][tutorial]
-- [Descarga el notebook práctico][exercise]
 
 ## Sesión en vídeo
 
@@ -11,7 +10,6 @@
 
 <!-- LINKS -->
 
-[tutorial]:foo.md
-[exercise]:exercise-.md
+[tutorial]:how-models-work.ipynb
 [youtube-image]:http://img.youtube.com/vi/0FPsQSAOGDw/0.jpg
 [youtube-video]:https://youtu.be/0FPsQSAOGDw
