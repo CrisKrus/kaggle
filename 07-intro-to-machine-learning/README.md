@@ -20,6 +20,8 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 
 [![Certificado Python](cristiansuarez-Intro-to-Machine-Learning.png)][certificate]
 
+[Volver atrás](../.)
+
 <!-- LINKS -->
 [course-link]:https://www.kaggle.com/learn/intro-to-machine-learning
 [how-models-works]:01-how-models-work
