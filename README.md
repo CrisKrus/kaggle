@@ -13,6 +13,7 @@ los hago en [Twitch]. Además de esto, cada sesión la subo al canal de
 4. [Modificamos nuestro anterior notebook para trabajar con pandas](04-video-game-sales-with-pandas/videogames-sales.html)
 5. [Buscamos datos públicos de Open data y los analizamos](05-open-data)
 6. [Data Cleaning](06-data-cleaning)
+7. [Intro a machine learning](07-intro-to-machine-learning)
 
 # Trabajar en local
 
