@@ -4,6 +4,7 @@
 
 - [Descarga el notebook teórico][tutorial]
 - [Descarga el notebook práctico][exercise]
+- [Discusión interesante sobre el ejercicio][discussion]
 
 ## Sesión en vídeo
 
@@ -15,8 +16,6 @@
 
 [tutorial]:basic-data-exploration.ipynb
 [exercise]:exercise-explore-your-data.ipynb
-[youtube-image]:http://img.youtube.com/vi/0FPsQSAOGDw/0.jpg
-[youtube-video]:https://youtu.be/0FPsQSAOGDw
-
-
-https://www.kaggle.com/learn-forum/60581
+[youtube-image]:http://img.youtube.com/vi/NSPrdApuIls/0.jpg
+[youtube-video]:https://youtu.be/NSPrdApuIls
+[discussion]:https://www.kaggle.com/learn-forum/60581

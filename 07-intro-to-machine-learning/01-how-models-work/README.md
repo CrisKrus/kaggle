@@ -13,5 +13,5 @@
 <!-- LINKS -->
 
 [tutorial]:how-models-work.ipynb
-[youtube-image]:http://img.youtube.com/vi/0FPsQSAOGDw/0.jpg
-[youtube-video]:https://youtu.be/0FPsQSAOGDw
+[youtube-image]:http://img.youtube.com/vi/EmF-m49XxL8/0.jpg
+[youtube-video]:https://youtu.be/EmF-m49XxL8
