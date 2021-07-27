@@ -1,5 +1,7 @@
 # Tu primer modelo de machine learning
 
+> Your first machine learning model
+
 - [Descarga el notebook teórico][tutorial]
 - [Descarga el notebook práctico][exercise]
 

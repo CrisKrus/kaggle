@@ -18,7 +18,7 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 
 ## Certificado
 
-[comment]: <> ([![Certificado Python]&#40;cristiansuarez-Python.png&#41;][certificate])
+[![Certificado Python](cristiansuarez-Intro-to-Machine-Learning.png)][certificate]
 
 <!-- LINKS -->
 [course-link]:https://www.kaggle.com/learn/intro-to-machine-learning
@@ -30,4 +30,4 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 [random-forest]:06-random-forests
 [competitions]:07-machine-learning-competitions
 [automl]:08-bouns-intro-to-automl
-[certificate]:https://www.kaggle.com/learn/certification/cristiansuarez/python
+[certificate]:https://www.kaggle.com/learn/certification/cristiansuarez/intro-to-machine-learning
