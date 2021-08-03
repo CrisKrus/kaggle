@@ -4,6 +4,7 @@
 machine learning desde cero gracias a kaggle y sus cursos gratuitos.
 
 - [Intro to machine learning][course-link]
+- [Lista de reproducción con las soluciones][youtube-playlist]
 
 El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 
@@ -23,6 +24,7 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 [Volver atrás](../.)
 
 <!-- LINKS -->
+[youtube-playlist]:https://youtube.com/playlist?list=PLZh1qmaTeQ-qF0rPPtF_qpO9q-Ftp9GiC
 [course-link]:https://www.kaggle.com/learn/intro-to-machine-learning
 [how-models-works]:01-how-models-work
 [data-exploration]:02-basic-data-exploration
