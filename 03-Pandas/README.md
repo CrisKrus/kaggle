@@ -4,6 +4,7 @@ En esta sesión veremos conceptos relacionados con la manipulación de datos con
 la librería Pandas. Para ello hemos usado este módulo de Kaggle
 
 - [Pandas][pandas]
+- [Lista de reproducción con las soluciones][youtube-playlist]
 
 El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 
@@ -14,16 +15,12 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 5. [Data Types and Missing Values][data-types-and-missing-values]
 6. [Renaming and Combining][renaming-and-combining]
 
-## Videos resolviendo las sesiones
-
-Si quieres ver los videos relacionados con estas sesiones te dejo la [lista de reproducción][youtube-video]
-
 ## Certificado
 
 [![Certificado Pandas](cristiansuarez-Pandas.png)][certificate]
 
 <!-- LINKS -->
-[youtube-video]:https://www.youtube.com/playlist?list=PLZh1qmaTeQ-qfgSKS6bEqX_HGIAXDWAbX
+[youtube-playlist]:https://youtube.com/playlist?list=PLZh1qmaTeQ-qfgSKS6bEqX_HGIAXDWAbX
 [pandas]:https://www.kaggle.com/learn/pandas
 [creating-reading-and-writing]:01-creating-reading-and-writing
 [indexing-selecting-and-assigning]:02-indexing-selecting-and-assigning
