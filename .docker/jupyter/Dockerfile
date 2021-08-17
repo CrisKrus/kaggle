@@ -10,6 +10,8 @@ ENV GEN_CERT=yes
 # Create conda environment
 ARG conda_env=python36
 ARG py_ver=3.6
+ARG NB_UID
+ARG NB_GID
 
 WORKDIR /home/$NB_USER/notebooks
 

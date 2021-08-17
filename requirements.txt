@@ -4,5 +4,4 @@ matplotlib
 plotly
 seaborn
 pycaret
-scikitplot
 lxml
