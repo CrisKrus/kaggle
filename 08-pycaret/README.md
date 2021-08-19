@@ -1,32 +1,17 @@
-# Module Name
+# Pycaret
 
-Intro...
+Esta librería es muy interesante a la hora de crear modelos de datos. Ya que,
+con ella podemos automatizar varios pasos del proceso.
 
-- [Module Name][course-link]
-
-El resultado de estos ejercicios lo hemos guardado en este mismo directorio
-
-1. [Hello, Python][hello]
-2. [Functions and Getting Help][functions]
-3. [Booleans and Conditionals][conditionals]
-4. [List][list]
-5. [Loops and List Comprehensions][loops]
-6. [String and Dictionaries][dictionaries]
-7. [Working with external libraries][external-libraries]
-
-## Certificado
-
-[![Certificado Python](cristiansuarez-Python.png)][certificate]
+- [Pycaret][pycaret]
+- [Repositorio de código][github]
+- [Tutoriales en notebooks][tutorials]
+- [Tutorial principiante clasificación binaria][binary-classification-tutorial]
 
 [Volver atrás](../.)
 
 <!-- LINKS -->
-[course-link]:https://www.kaggle.com/learn/
-[hello]:01-
-[functions]:02-
-[conditionals]:03-
-[list]:04-
-[loops]:05-
-[dictionaries]:06-
-[external-libraries]:07-
-[certificate]:https://www.kaggle.com/learn/certification/cristiansuarez/
+[pycaret]:https://pycaret.org/
+[github]: https://github.com/pycaret/pycaret
+[tutorials]:https://github.com/pycaret/pycaret/tree/master/tutorials
+[binary-classification-tutorial]: ./Binary-Classification-Tutorial-Level-Beginner-CLF101.html
