@@ -2,8 +2,8 @@
 
 > Random forest
 
-- [Descarga el notebook teórico][tutorial]
-- [Descarga el notebook práctico][exercise]
+- [Visualiza][tutorial-visualize] o [descarga][tutorial-download] el notebook teórico
+- [Visualiza][exercise-visualize] o [descarga][exercise-download] el notebook práctico
 
 ## Sesión en vídeo
 
@@ -13,7 +13,9 @@
 
 <!-- LINKS -->
 
-[tutorial]:random-forests.ipynb
-[exercise]:exercise-random-forests.ipynb
+[tutorial-visualize]:random-forests.html
+[tutorial-download]:random-forests.ipynb
+[exercise-visualize]:exercise-random-forests.html
+[exercise-download]:exercise-random-forests.ipynb
 [youtube-image]:http://img.youtube.com/vi/wf8wjb30U7w/0.jpg
 [youtube-video]:https://youtu.be/wf8wjb30U7w

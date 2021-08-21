@@ -2,7 +2,7 @@
 
 > bonus, taxi fare prediction competition
 
-- [Descarga el notebook][notebook]
+- [Visualiza][tutorial-visualize] o [descarga][tutorial-download] el notebook
 
 ## Sesión en vídeo
 
@@ -12,6 +12,7 @@
 
 <!-- LINKS -->
 
-[notebook]:new-york-city-taxi-fare-prediction.ipynb
+[notebook-visualize]:new-york-city-taxi-fare-prediction.html
+[notebook-download]:new-york-city-taxi-fare-prediction.ipynb
 [youtube-image]:http://img.youtube.com/vi/foo/0.jpg
 [youtube-video]:https://youtu.be/foo

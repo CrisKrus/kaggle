@@ -2,8 +2,8 @@
 
 > grouping and sorting
 
-- [Descarga el notebook teórico][tutorial]
-- [Descarga el notebook práctico][exercise]
+- [Visualiza][tutorial-visualize] o [descarga][tutorial-download] el notebook teórico
+- [Visualiza][exercise-visualize] o [descarga][exercise-download] el notebook práctico
 
 ## Sesión en vídeo
 
@@ -13,7 +13,9 @@
 
 <!-- LINKS -->
 
-[tutorial]:grouping-and-sorting.ipynb
-[exercise]:exercise-grouping-and-sorting.ipynb
+[tutorial-visualize]:grouping-and-sorting.html
+[tutorial-download]:grouping-and-sorting.ipynb
+[exercise-visualize]:exercise-grouping-and-sorting.html
+[exercise-download]:exercise-grouping-and-sorting.ipynb
 [youtube-image]:http://img.youtube.com/vi/fD_vtJTupAc/0.jpg
 [youtube-video]:https://youtu.be/fD_vtJTupAc?list=PLZh1qmaTeQ-qfgSKS6bEqX_HGIAXDWAbX&t=5631

@@ -2,7 +2,7 @@
 
 > How model works?
 
-- [Descarga el notebook teórico][tutorial]
+- [Visualiza][tutorial-visualize] o [descarga][tutorial-download] el notebook teórico
 
 ## Sesión en vídeo
 
@@ -12,6 +12,7 @@
 
 <!-- LINKS -->
 
-[tutorial]:how-models-work.ipynb
+[tutorial-visualize]:how-models-work.html
+[tutorial-download]:how-models-work.ipynb
 [youtube-image]:http://img.youtube.com/vi/EmF-m49XxL8/0.jpg
 [youtube-video]:https://youtu.be/EmF-m49XxL8

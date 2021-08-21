@@ -13,7 +13,9 @@
 
 <!-- LINKS -->
 
-[tutorial]:handling-missing-values.ipynb
-[exercise]:exercise-handling-missing-values.ipynb
+[tutorial-visualize]:handling-missing-values.html
+[tutorial-download]:handling-missing-values.ipynb
+[exercise-visualize]:exercise-handling-missing-values.html
+[exercise-download]:exercise-handling-missing-values.ipynb
 [youtube-image]:http://img.youtube.com/vi/vsLe19e9rKY/0.jpg
 [youtube-video]:https://youtu.be/vsLe19e9rKY

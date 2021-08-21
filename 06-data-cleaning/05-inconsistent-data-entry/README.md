@@ -2,8 +2,8 @@
 
 > inconsistent data entry
 
-- [Descarga el notebook teórico][tutorial]
-- [Descarga el notebook práctico][exercise]
+- [Visualiza][tutorial-visualize] o [descarga][tutorial-download] el notebook teórico
+- [Visualiza][exercise-visualize] o [descarga][exercise-download] el notebook práctico
 
 ## Sesión en vídeo
 
@@ -13,7 +13,9 @@
 
 <!-- LINKS -->
 
-[tutorial]:inconsistent-data-entry.ipynb
-[exercise]:exercise-inconsistent-data-entry.ipynb
+[tutorial-visualize]:inconsistent-data-entry.html
+[tutorial-download]:inconsistent-data-entry.ipynb
+[exercise-visualize]:exercise-inconsistent-data-entry.html
+[exercise-download]:exercise-inconsistent-data-entry.ipynb
 [youtube-image]:http://img.youtube.com/vi/G_FIiU187A0/0.jpg
 [youtube-video]:https://youtu.be/G_FIiU187A0

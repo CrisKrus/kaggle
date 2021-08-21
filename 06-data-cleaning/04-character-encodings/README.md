@@ -2,8 +2,8 @@
 
 > character encodings
 
-- [Descarga el notebook teórico][tutorial]
-- [Descarga el notebook práctico][exercise]
+- [Visualiza][tutorial-visualize] o [descarga][tutorial-download] el notebook teórico
+- [Visualiza][exercise-visualize] o [descarga][exercise-download] el notebook práctico
 
 ## Sesión en vídeo
 
@@ -13,7 +13,9 @@
 
 <!-- LINKS -->
 
-[tutorial]:character-encodings.ipynb
-[exercise]:exercise-character-encodings.ipynb
+[tutorial-visualize]:character-encodings.html
+[tutorial-download]:character-encodings.ipynb
+[exercise-visualize]:exercise-character-encodings.html
+[exercise-download]:exercise-character-encodings.ipynb
 [youtube-image]:http://img.youtube.com/vi/nyzpGqQB6LE/0.jpg
 [youtube-video]:https://youtu.be/nyzpGqQB6LE
