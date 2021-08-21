@@ -2,18 +2,20 @@
 
 > english title
 
-- [Descarga el notebook teórico][tutorial]
-- [Descarga el notebook práctico][exercise]
+- [Visualiza][tutorial-visualize] o [descarga][tutorial-download] el notebook teórico
+- [Visualiza][exercise-visualize] o [descarga][exercise-download] el notebook práctico
 
 ## Sesión en vídeo
 
-[![Live coding session][youtube-image]][youtube-video]
+<!-- [![Live coding session][youtube-image]][youtube-video] -->
 
 [Volver atrás](../.)
 
 <!-- LINKS -->
 
-[tutorial]:foo.md
-[exercise]:exercise-.md
+[tutorial-visualize]:foo.md
+[tutorial-download]:foo.md
+[exercise-visualize]:exercise-.md
+[exercise-download]:exercise-.md
 [youtube-image]:http://img.youtube.com/vi/0FPsQSAOGDw/0.jpg
 [youtube-video]:https://youtu.be/0FPsQSAOGDw
