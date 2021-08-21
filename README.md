@@ -56,7 +56,6 @@ No olvides que puedes seguirme o preguntarme lo que quieras por mis redes social
 [Twitch]:https://www.twitch.tv/cristian_suarez_dev
 [youtube-directos]:http://bit.ly/cristian-suarez-directos
 [lista-directos]:https://www.youtube.com/playlist?list=PLZh1qmaTeQ-qvyJ9GOLNEwESIGTQdHAoI
-[try-jupyter]:
-https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo
+[try-jupyter]:https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab/tree/demo
 [google-colab]:https://colab.research.google.com/
 [kaggle]:https://www.kaggle.com/code
