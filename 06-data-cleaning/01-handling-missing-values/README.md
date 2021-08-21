@@ -2,8 +2,8 @@
 
 > Handling missing values
 
-- [Descarga el notebook teórico][tutorial]
-- [Descarga el notebook práctico][exercise]
+- [Visualiza][tutorial-visualize] o [descarga][tutorial-download] el notebook teórico
+- [Visualiza][exercise-visualize] o [descarga][exercise-download] el notebook práctico
 
 ## Sesión en vídeo
 

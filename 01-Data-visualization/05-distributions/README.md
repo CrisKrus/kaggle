@@ -1,6 +1,6 @@
-# Listas
+# Distribuciones
 
-> lists
+> distributions
 
 - [Visualiza][tutorial-visualize] o [descarga][tutorial-download] el notebook teórico
 - [Visualiza][exercise-visualize] o [descarga][exercise-download] el notebook práctico
@@ -13,9 +13,9 @@
 
 <!-- LINKS -->
 
-[tutorial-visualize]:lists.html
-[tutorial-download]:lists.ipynb
-[exercise-visualize]:exercise-lists.html
-[exercise-download]:exercise-lists.ipynb
+[tutorial-visualize]:distributions.html
+[tutorial-download]:distributions.ipynb
+[exercise-visualize]:exercise-distributions.html
+[exercise-download]:exercise-distributions.ipynb
 [youtube-image]:http://img.youtube.com/vi/0FPsQSAOGDw/0.jpg
 [youtube-video]:https://youtu.be/0FPsQSAOGDw

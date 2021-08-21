@@ -1,43 +1,21 @@
-# Bar chart and heatmaps
+# Graficas de barras y de calor
 
-## Heatmap
+> bar charts and heatmaps
 
-Este tipo de gráfico, mapa de calor, es muy útil a la hora de comparar valores
-numéricos de una relación. Es decir, si por ejemplo tenemos las ventas de
-videojuegos clasificadas por plataforma y año como se muestra a continuación
+- [Visualiza][tutorial-visualize] o [descarga][tutorial-download] el notebook teórico
+- [Visualiza][exercise-visualize] o [descarga][exercise-download] el notebook práctico
 
-| Plataforma | Año  | Ventas |
---- | --- | ---
-|Wii|2000|100|
-|Wii|2001|150|
-|Wii|2002|50|
-|DS|2000|98|
-|DS|2001|118|
-|DS|2002|134|
+## Sesión en vídeo
 
-Si esta tabla de datos fuera mucho mayor con cientos de miles de entradas sería
-bastante complicado hacer una comparación de sus datos con otro tipo de gráficas.
-Con el mapa de calor podremos hacer un eje de coordenadas como si de un mapa de
-hundir la flota se tratase. Dónde, en los ejes en lugar de letras y números
-tengamos el nombre de la plataforma y el año en el que ocurren las ventas. 
+[comment]: <> (<!-- [![Live coding session][youtube-image]][youtube-video] -->)
 
-Y luego dentro de este mapa pondremos los valores que corresponda a cada
-intersección. La parte interesante viene ahora, este mapa además colorea con
-un degradado todas las casillas de tal manera que las que tengan un valor mayor
-sea de un color más intenso y las de menor valor de un tono más claro.
+[Volver atrás](../.)
 
-Con esto lo que logramos es ver patrones más fácilmente de momentos en los que
-han habido muchas ventas.
+<!-- LINKS -->
 
-Te dejo un ejemplo a continuación
-
-![mapa de calor de ventas de juegos por año](static/hetmap-game-sales.png "mapa de calor de ventas de juegos por año")
-
-Para ello necesitaremos que los datos que los datos estén formateados de tal
-manera que las cabeceras sean uno de los ejes y los índices el otro. Estos dos
-son los únicos datos que pueden no ser numéricos el resto debe de serlo.
-
-|  | 2000 | 2001 | 2002 |
---- | --- | --- | --- 
-|Wii|100|250|50|
-|DS|98|118|2002|
+[tutorial-visualize]:bar-charts-and-heatmaps.html
+[tutorial-download]:bar-charts-and-heatmaps.ipynb
+[exercise-visualize]:exercise-bar-charts-and-heatmaps.html
+[exercise-download]:exercise-bar-charts-and-heatmaps.ipynb
+[youtube-image]:http://img.youtube.com/vi/0FPsQSAOGDw/0.jpg
+[youtube-video]:https://youtu.be/0FPsQSAOGDw

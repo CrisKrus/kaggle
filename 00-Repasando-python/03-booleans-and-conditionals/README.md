@@ -1,4 +1,21 @@
-# Booleans and conditionals
+# Booleanos y condicionales
 
-- [Descarga el notebook teórico](booleans-and-conditionals.ipynb)
-- [Descarga el notebook práctico](exercise-booleans-and-conditionals.ipynb)
+> booleans and conditionals
+
+- [Visualiza][tutorial-visualize] o [descarga][tutorial-download] el notebook teórico
+- [Visualiza][exercise-visualize] o [descarga][exercise-download] el notebook práctico
+
+## Sesión en vídeo
+
+<!-- [![Live coding session][youtube-image]][youtube-video] -->
+
+[Volver atrás](../.)
+
+<!-- LINKS -->
+
+[tutorial-visualize]:booleans-and-conditionals.html
+[tutorial-download]:booleans-and-conditionals.ipynb
+[exercise-visualize]:exercise-booleans-and-conditionals.html
+[exercise-download]:exercise-booleans-and-conditionals.ipynb
+[youtube-image]:http://img.youtube.com/vi/0FPsQSAOGDw/0.jpg
+[youtube-video]:https://youtu.be/0FPsQSAOGDw
