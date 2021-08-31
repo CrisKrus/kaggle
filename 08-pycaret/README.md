@@ -8,6 +8,8 @@ con ella podemos automatizar varios pasos del proceso.
 - [Tutoriales en notebooks][tutorials]
 - [Tutorial principiante clasificación binaria][binary-classification-tutorial]
 
+[![Live coding session][youtube-image]][youtube-video]
+
 [Volver atrás](../.)
 
 <!-- LINKS -->
@@ -15,3 +17,5 @@ con ella podemos automatizar varios pasos del proceso.
 [github]: https://github.com/pycaret/pycaret
 [tutorials]:https://github.com/pycaret/pycaret/tree/master/tutorials
 [binary-classification-tutorial]: ./Binary-Classification-Tutorial-Level-Beginner-CLF101.html
+[youtube-image]:http://img.youtube.com/vi/ntI36AuaWtA/0.jpg
+[youtube-video]:https://youtu.be/ntI36AuaWtA
