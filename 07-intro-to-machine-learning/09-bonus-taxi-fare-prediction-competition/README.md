@@ -2,7 +2,7 @@
 
 > bonus, taxi fare prediction competition
 
-- [Visualiza][tutorial-visualize] o [descarga][tutorial-download] el notebook
+- [Visualiza][notebook-visualize] o [descarga][notebook-download] el notebook
 
 ## Sesión en vídeo
 
