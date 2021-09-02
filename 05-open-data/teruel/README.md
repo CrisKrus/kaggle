@@ -1,19 +1,20 @@
-# Step title
+# Open data Teruel
 
-> english title
+En este módulo hemos ido al portal de datos abiertos de Teruel para ver que se
+traían entre manos. Nos hemos encontrado con varias cosas interesantes.
 
-- [Descarga el notebook teórico][tutorial]
-- [Descarga el notebook práctico][exercise]
+- [Descarga el notebook de modelado de los datos][data-modeling]
 
-## Sesión en vídeo
+## Sesiones en vídeo
 
-[![Live coding session][youtube-image]][youtube-video]
+Este módulo lo hemos ido haciendo en varias sesiones. Todas ellas en la siguiente
+lista de reproducción.
+
+- [Lista de vídeos en youtube][youtube-playlist]
 
 [Volver atrás](../.)
 
 <!-- LINKS -->
 
-[tutorial]:foo.md
-[exercise]:exercise-.md
-[youtube-image]:http://img.youtube.com/vi/0FPsQSAOGDw/0.jpg
-[youtube-video]:https://youtu.be/0FPsQSAOGDw
+[data-modeling]:format-entities.ipynb
+[youtube-playlist]:https://www.youtube.com/playlist?list=PLZh1qmaTeQ-qsyn-3Mrww47GH6OXpwwri
