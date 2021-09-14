@@ -4,6 +4,7 @@ En esta primera sesión hemos refrescado conceptos básicos de Python. Para ello
 hemos usado este módulo de Kaggle
 
 - [Learn Python][python-tutorial]
+- [Lista de reproducción del curso al completo][youtube-playlist]
 
 El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 
@@ -19,7 +20,10 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 
 [![Certificado Python](cristiansuarez-Python.png)][certificate]
 
+[Volver atrás](../.)
+
 <!-- LINKS -->
+[youtube-playlist]:https://www.youtube.com/playlist?list=PLZh1qmaTeQ-pOsW1xfBQ12ueUbcomC29K
 [python-tutorial]:https://www.kaggle.com/learn/python
 [hello]:01-hello-python
 [functions]:02-functions-and-getting-help

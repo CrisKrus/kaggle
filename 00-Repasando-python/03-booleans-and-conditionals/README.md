@@ -7,7 +7,7 @@
 
 ## Sesión en vídeo
 
-<!-- [![Live coding session][youtube-image]][youtube-video] -->
+[![Live coding session][youtube-image]][youtube-video]
 
 [Volver atrás](../.)
 
@@ -17,5 +17,5 @@
 [tutorial-download]:booleans-and-conditionals.ipynb
 [exercise-visualize]:exercise-booleans-and-conditionals.html
 [exercise-download]:exercise-booleans-and-conditionals.ipynb
-[youtube-image]:http://img.youtube.com/vi/0FPsQSAOGDw/0.jpg
-[youtube-video]:https://youtu.be/0FPsQSAOGDw
+[youtube-image]:http://img.youtube.com/vi/kQArtNuLv4o/0.jpg
+[youtube-video]:https://youtu.be/kQArtNuLv4o?list=PLZh1qmaTeQ-pOsW1xfBQ12ueUbcomC29K&t=3681

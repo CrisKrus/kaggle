@@ -7,7 +7,7 @@
 
 ## Sesión en vídeo
 
-<!-- [![Live coding session][youtube-image]][youtube-video] -->
+[![Live coding session][youtube-image]][youtube-video]
 
 [Volver atrás](../.)
 
@@ -17,5 +17,5 @@
 [tutorial-download]:loops-and-list-comprehensions.ipynb
 [exercise-visualize]:exercise-loops-and-list-comprehensions.html
 [exercise-download]:exercise-loops-and-list-comprehensions.ipynb
-[youtube-image]:http://img.youtube.com/vi/0FPsQSAOGDw/0.jpg
-[youtube-video]:https://youtu.be/0FPsQSAOGDw
+[youtube-image]:http://img.youtube.com/vi/rmhyQZ7eSTU/0.jpg
+[youtube-video]:https://youtu.be/rmhyQZ7eSTU?list=PLZh1qmaTeQ-pOsW1xfBQ12ueUbcomC29K&t=6525
