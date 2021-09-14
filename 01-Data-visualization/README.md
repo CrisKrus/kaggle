@@ -4,7 +4,8 @@ En esta segunda sesión veremos conceptos introductorios sobre la visualización
 de datos. Para ello hemos usado este módulo de Kaggle
 
 - [Data visualization][data-visualization]
-
+- [Lista de reproducción con las soluciones][youtube-playlist]
+- 
 El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 
 1. [Hello, Seaborn][hello]
@@ -19,7 +20,10 @@ El resultado de estos ejercicios lo hemos guardado en este mismo directorio
 
 [![Certificado Pandas](cristiansuarez-Data-Visualization.png)][certificate]
 
+[Volver atrás](../.)
+
 <!-- LINKS -->
+[youtube-playlist]:https://www.youtube.com/playlist?list=PLZh1qmaTeQ-q_HrDcRytAKqCGfr5XL-AF
 [data-visualization]:https://www.kaggle.com/learn/data-visualization
 [hello]:01-hello-seaborn
 [line-charts]:02-line-charts

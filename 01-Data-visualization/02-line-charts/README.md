@@ -7,7 +7,7 @@
 
 ## Sesión en vídeo
 
-<!-- [![Live coding session][youtube-image]][youtube-video] -->
+[![Live coding session][youtube-image]][youtube-video]
 
 [Volver atrás](../.)
 

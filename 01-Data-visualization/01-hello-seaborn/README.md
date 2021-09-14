@@ -7,7 +7,7 @@
 
 ## Sesión en vídeo
 
-<!-- [![Live coding session][youtube-image]][youtube-video] -->
+[![Live coding session][youtube-image]][youtube-video]
 
 [Volver atrás](../.)
 
@@ -17,5 +17,5 @@
 [tutorial-download]:hello-seaborn.ipynb
 [exercise-visualize]:exercise-hello-seaborn.html
 [exercise-download]:exercise-hello-seaborn.ipynb
-[youtube-image]:http://img.youtube.com/vi/0FPsQSAOGDw/0.jpg
-[youtube-video]:https://youtu.be/0FPsQSAOGDw
+[youtube-image]:http://img.youtube.com/vi/eYhVAMI1mmQ/0.jpg
+[youtube-video]:https://youtu.be/eYhVAMI1mmQ?t=3700
